@@ -1,0 +1,9 @@
+git clone "repository-URL-link"
+
+git status
+
+git add (stage changes)
+
+git commit (commit changes)
+
+git push (push changes)
